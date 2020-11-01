@@ -94,6 +94,11 @@
  	margin-left: 170px;
  	margin-top: 20px;
  	display: inline-block;
+ 	padding: 5px;
+ }
+ 
+ #lucky {
+ 	padding: 5px;
  }
  
  footer {
