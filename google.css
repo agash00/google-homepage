@@ -95,11 +95,23 @@
  	margin-left: 170px;
  	margin-top: 20px;
  	display: inline-block;
- 	padding: 5px;
+ 	padding: 10px;
+ 	background-color: black;
+ 	color: white;
+ 	border: solid 1px white;
+ 	border-radius: 5px;
  }
  
  #lucky {
- 	padding: 5px;
+ 	padding: 10px;
+ 	background-color: black;
+ 	color: white;
+ 	border: solid 1px white;
+ 	border-radius: 5px;
+ }
+ 
+ #search:hover, #lucky:hover {
+ 	background-color: #241f1f;
  }
  
  footer {
